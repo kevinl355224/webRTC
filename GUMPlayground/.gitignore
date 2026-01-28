@@ -1,2 +1,5 @@
-new file:   .DS_Store
-new file:   .idea/workspace.xml
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
